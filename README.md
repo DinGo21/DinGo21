@@ -4,7 +4,7 @@
 My name is Diego, I am a programming student very passionate about understanding how things work.
 I have knowledge of low level programming, system administration and web development.
 
-## Language and Tools
+## Language and Tools I Use
 
 ###
 
