@@ -42,5 +42,6 @@ I have knowledge of low level programming, system administration and web develop
 
 ## Contacts
 
-📧[Gmail](diego.antoniosantamaria@gmail.com)
+* [Gmail](diego.antoniosantamaria@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/diegosm21/)
 
