@@ -4,6 +4,10 @@
 My name is Diego, I am a programming student very passionate about understanding how things work.
 I have knowledge of low level programming, system administration and web development.
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinGo21)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Language and Tools I Use
 
 ###
@@ -35,4 +39,8 @@ I have knowledge of low level programming, system administration and web develop
 </div>
 
 ###
+
+## Contacts
+
+📧[Gmail](diego.antoniosantamaria@gmail.com)
 
