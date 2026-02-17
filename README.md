@@ -36,7 +36,7 @@ I'm a 42 Malaga student learning the ways of programming and software developmen
 
 ## 📊 Stats
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinGo21&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DinGo21&theme=dark)](https://git.io/streak-stats)
 
 ## ✉ Contact
 
