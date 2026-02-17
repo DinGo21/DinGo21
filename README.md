@@ -32,9 +32,9 @@ I'm a 42 Malaga student learning the ways of programming and software developmen
 
 ## 🏆 Badges
 
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/6dc6e6de-9e3d-4db4-8f50-ae1ba29cbb5d/public_url)
+[![AWS Certified Cloud Practitioner](badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6dc6e6de-9e3d-4db4-8f50-ae1ba29cbb5d/public_url)
 
-[AWS re/Start Graduate](https://www.credly.com/badges/25426b3f-272f-4667-9bc8-d80ea29c9150/public_url)
+[![AWS re/Start Graduate](badges/aws-re-start-graduate.png)](https://www.credly.com/badges/25426b3f-272f-4667-9bc8-d80ea29c9150/public_url)
 
 ## 📊 Stats
 
